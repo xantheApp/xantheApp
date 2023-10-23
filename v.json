@@ -1,0 +1,9 @@
+{
+    versionCode: 1,
+    priority: 3,
+    data:{
+        tittle: "actualizacion Disponible",
+        description:"lorem sdfsd sdf ssfsdf wegege aasa sdsadsad safsafs asfe afefef adewef",
+        image: "https:/hixmai/media/1.png"
+    }
+}
